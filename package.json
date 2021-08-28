@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ajmed/deep-thoughts#readme",
   "dependencies": {
+    "heroku": "^7.59.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
